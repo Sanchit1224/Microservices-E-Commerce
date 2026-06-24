@@ -10,7 +10,6 @@ The application is composed of multiple microservices:
 - **Order Service**: Handles customer orders (MySQL)
 - **Inventory Service**: Tracks product inventory (MySQL)
 
-![Architecture Overview](https://raw.githubusercontent.com/rahult18/springcommerce/main/project_architecture.png)
 
 ## Tech Stack
 
